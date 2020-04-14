@@ -1,6 +1,6 @@
 import Axios from "axios";
 import * as admin from "firebase-admin";
-import { firebaseconfig } from "./firestore";
+import { firebaseconfig } from "../firestore";
 
 admin.initializeApp({
     credential: admin.credential.cert(firebaseconfig as admin.ServiceAccount)
