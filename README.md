@@ -5,7 +5,7 @@
 This codebase can be used to help populate a FireStore database with test data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) to be used in demo projects.
 
 <p align="center">
-  <a target="blank"><img src="Firestore.png" width="500" alt="NodeJS Typescript Logo" /></a>
+  <a target="blank"><img src="Firestore.png"  alt="NodeJS Typescript Logo" /></a>
 </p>
 
 ## Instructions 
