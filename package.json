@@ -1,0 +1,16 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "ts-node src/main.ts",
+    "install-dependencies": "yarn",
+    "update": "ncu -u && yarn"
+  },
+  "dependencies": {
+    "@types/node": "13.11.1",
+    "axios": "^0.19.2",
+    "firebase-admin": "^8.10.0"
+  }
+}
